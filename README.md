@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ariza 👋
 
-<!--
-**Anora1105/Anora1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student
+💻 Interested in Web Development, System Administration, and Cyber Security
+📍 Indonesia
 
-Here are some ideas to get you started:
+## Skills
+- Laravel
+- PHP
+- MySQL
+- Linux
+- Networking
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Projects
+- Rental Information System
+- CRM Analysis Project
+- Network Security Lab (Suricata, DNS, Web Server)
+- Rule-Based Expert System
+
+## Contact
+- Email: yourmail@example.com
+- LinkedIn: linkedin.com/in/yourprofile
